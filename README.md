@@ -18,7 +18,7 @@ clock = pygame.time.Clock()
 running = True
 angle = 0
 
-while 
+while running:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False
