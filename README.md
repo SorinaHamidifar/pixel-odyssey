@@ -3,7 +3,7 @@
 
 import pygame
 import random
-import math math
+import math 
 
 # Initialize Pygame
 pygame.init()
