@@ -14,7 +14,7 @@ pygame.display.set_caption("Art + Tech Playground 🎨💻")
 # Clock for controlling frame rate
 clock = pygame.time.Clock()
 
-# Main loop time 
+# Main loop  
 running = True
 angle = 0
 
