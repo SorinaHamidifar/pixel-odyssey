@@ -40,4 +40,4 @@ while running:
     angle += 0.02
     clock.tick(60)
 
-pygame.quit() 5
+pygame.quit()
