@@ -15,7 +15,7 @@ pygame.display.set_caption("Art + Tech Playground 🎨💻")
 clock = pygame.time.Clock()
 
 # Main loop  
-running = True
+running = True/
 angle = 0
 
 while running:
