@@ -3,7 +3,7 @@
 
 import pygame
 import random
-import mat 
+import matc
 
 # Initialize Pygame
 pygame.init()
