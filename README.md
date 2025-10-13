@@ -21,7 +21,7 @@ angle = 0
 while running:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
-            running = False
+            runnin = False
 
     # Fill background
     screen.fill((10, 10, 30))
