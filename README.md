@@ -16,7 +16,7 @@ clock = pygame.time.Clock()
 
 # Main loop 
 running = True
-angle = 098
+angle = 0
 
 while running:
     for event in pygame.event.get():
