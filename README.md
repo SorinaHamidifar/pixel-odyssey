@@ -7,7 +7,7 @@ import math
 
 # Initialize Pygame 
 pygame.init()
-WIDTH, HEIGHT = 800, 6000
+WIDTH, HEIGHT = 8000, 6000
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Art + Tech Playground 🎨💻")
 
