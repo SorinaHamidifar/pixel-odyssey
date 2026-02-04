@@ -36,7 +36,7 @@ while running:
     # Update the display
     pygame.display.flip()
 
-    # Inc angle for animation
+    # Incre angle for animation
     angle += 0.02
     clock.tick(60)
 
