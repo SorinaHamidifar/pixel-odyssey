@@ -11,7 +11,7 @@ WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Art + Tech Playground 🎨💻")
 
-# Clock for controlling frame rate colorfull
+# Clock for controlling frame rate colorfu
 clock = pygame.time.Clock()
 
 # Main loop 
