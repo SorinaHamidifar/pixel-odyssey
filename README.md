@@ -1,4 +1,4 @@
-# art_tech_pl.py
+# art_tech_playgro.py
 # A creative journey: coding experiments + pixel-perfect designs + playful prototypes
 
 import pygame
