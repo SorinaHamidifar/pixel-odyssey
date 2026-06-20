@@ -3,7 +3,7 @@
 
 import pygame
 import random
-import math
+import math pixel
 
 # Initialize Pygame 
 pygame.init()
