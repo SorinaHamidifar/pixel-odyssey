@@ -1,5 +1,5 @@
 # art_tech_playground.py
-# A creative journey: coding experiments + pixel-perfect designs + play
+# A creative journey: coding experiments + pixel-perfect designs + playful
 
 import pygame
 import random
