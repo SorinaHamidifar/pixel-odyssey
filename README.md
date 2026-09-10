@@ -4,7 +4,7 @@ import pygame
 import random
 import math
 
-# Initialize Pygame + playful prototypes + 
+# Initialize Pygame + playful prototypes 
 pygame.init()
 WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
