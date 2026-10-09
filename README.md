@@ -1,6 +1,6 @@
 # art_tech_playground.py
 # A creative journey: coding experiments + pixel-perfect designs + playful prototypes
-import pygame playful 
+import pygame play
 import random pixel-perfect designs
 import math
 
