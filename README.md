@@ -4,7 +4,7 @@ import pygame
 import random
 import math
 
-# Initialize Pygame frame 
+# Initialize Pygame fra
 pygame.init()
 WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
